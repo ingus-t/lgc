@@ -98,40 +98,40 @@ border-width: 27px;
 
 .frame1
 {
--moz-border-image: url(http://xerofurniture.com/imcphotos/frame1.png) 27 round;
--webkit-border-image: url(http://xerofurniture.com/imcphotos/frame1.png) 27 round;
--o-border-image: url(http://xerofurniture.com/imcphotos/frame1.png) 27 round;
-border-image: url(http://xerofurniture.com/imcphotos/frame1.png) 27 fill round;
+-moz-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame1.png) 27 round;
+-webkit-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame1.png) 27 round;
+-o-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame1.png) 27 round;
+border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame1.png) 27 fill round;
 }
 
 .frame2
 {
--moz-border-image: url(http://xerofurniture.com/imcphotos/frame2.png) 27 round;
--webkit-border-image: url(http://xerofurniture.com/imcphotos/frame2.png) 27 round;
--o-border-image: url(http://xerofurniture.com/imcphotos/frame2.png) 27 round;
-border-image: url(http://xerofurniture.com/imcphotos/frame2.png) 27 fill round;
+-moz-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame2.png) 27 round;
+-webkit-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame2.png) 27 round;
+-o-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame2.png) 27 round;
+border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame2.png) 27 fill round;
 }
 
 .frame3
 {
--moz-border-image: url(http://xerofurniture.com/imcphotos/frame3.png) 27 round;
--webkit-border-image: url(http://xerofurniture.com/imcphotos/frame3.png) 27 round;
--o-border-image: url(http://xerofurniture.com/imcphotos/frame3.png) 27 round;
-border-image: url(http://xerofurniture.com/imcphotos/frame3.png) 27 fill round;
+-moz-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame3.png) 27 round;
+-webkit-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame3.png) 27 round;
+-o-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame3.png) 27 round;
+border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame3.png) 27 fill round;
 }
 
 .frame4
 {
--moz-border-image: url(http://xerofurniture.com/imcphotos/frame4.png) 27 round;
--webkit-border-image: url(http://xerofurniture.com/imcphotos/frame4.png) 27 round;
--o-border-image: url(http://xerofurniture.com/imcphotos/frame4.png) 27 round;
-border-image: url(http://xerofurniture.com/imcphotos/frame4.png) 27 fill round;
+-moz-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame4.png) 27 round;
+-webkit-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame4.png) 27 round;
+-o-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame4.png) 27 round;
+border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame4.png) 27 fill round;
 }
 
 .frame5
 {
--moz-border-image: url(http://xerofurniture.com/imcphotos/frame5.png) 27 round;
--webkit-border-image: url(http://xerofurniture.com/imcphotos/frame5.png) 27 round;
--o-border-image: url(http://xerofurniture.com/imcphotos/frame5.png) 27 round;
-border-image: url(http://xerofurniture.com/imcphotos/frame5.png) 27 fill round;
+-moz-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame5.png) 27 round;
+-webkit-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame5.png) 27 round;
+-o-border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame5.png) 27 round;
+border-image: url(https://raw.githubusercontent.com/ingus-t/lgc/master/frame5.png) 27 fill round;
 }
